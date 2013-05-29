@@ -17,6 +17,10 @@ $DIMASZ
  40
 2.5
   9
+$GRIDMODE
+ 70
+0
+  9
 $PLIMMIN
  10
 0.0
@@ -1591,6 +1595,86 @@ AcDbRadialDimension
  40
 0.0
   0
+MTEXT
+  5
+4B
+100
+AcDbEntity
+100
+AcDbMText
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+1.0
+ 20
+-13.0
+ 30
+0.0
+ 40
+1.0
+ 41
+100.0
+ 71
+1
+ 72
+0
+  1
+All dimensions in mm
+  7
+normallatin1
+ 50
+0.0
+ 73
+1
+ 44
+1.0
+  0
+MTEXT
+  5
+4C
+100
+AcDbEntity
+100
+AcDbMText
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-28.0
+ 20
+-12.0
+ 30
+0.0
+ 40
+1.0
+ 41
+100.0
+ 71
+1
+ 72
+0
+  1
+Kenwood TS-140/680\PPort ACC1
+  7
+normallatin1
+ 50
+0.0
+ 73
+1
+ 44
+1.0
+  0
 ENDSEC
   0
 SECTION
@@ -1629,7 +1713,7 @@ E
   3
 AcDbVariableDictionary
 350
-4B
+4D
   0
 DICTIONARY
   5
@@ -2093,7 +2177,7 @@ Layout2
   0
 DICTIONARY
   5
-4B
+4D
 100
 AcDbDictionary
 281
@@ -2101,15 +2185,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-4D
+4F
   3
 HIDETEXT
 350
-4C
+4E
   0
 DICTIONARYVAR
   5
-4C
+4E
 100
 DictionaryVariables
 280
@@ -2119,7 +2203,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-4D
+4F
 100
 DictionaryVariables
 280

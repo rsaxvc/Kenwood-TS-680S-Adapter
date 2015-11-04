@@ -1,0 +1,78 @@
+eeschema (22-Jun-2014 BZR 4027)-stable  >> Creation date: Sat 20 Jun 2015 02:09:51 PM CDT
+#Cmp ( order = Reference )
+| C1         .01u        
+| C2         33u         
+| C3         47u         
+| C4         .01u        
+| C5         1nF         
+| C6         .1uF        
+| C7         .1uF        
+| C8         .1uF        
+| C9         .1uF        
+| C10        100nF       
+| CON1       USB-MINI-B  
+| D1         DIODE       
+| L1         INDUCTOR    
+| L2         INDUCTOR    
+| P1         CONN_7      
+| P2         CONN_9      
+| P3         CONN_2      
+| P4         CONN_2      
+| Q1         MOSFET_N    
+| R1         39          
+| R2         24          
+| R3         24          
+| R4         24          
+| R5         24          
+| R6         10k         
+| R7         10k         
+| T1         TRANSFO     
+| T?         TRANSFO     
+| U1         7805        
+| U2         74LS04      
+| U3         4072        
+| U4         4072        
+| U5         ADUM3160    
+| U6         FT245R      
+| U7         74LS244     
+#End Cmp
+
+#Cmp ( order = Value )
+| 1nF          C5        
+| 100nF        C10       
+| TRANSFO      T?        
+| 33u          C2        
+| 47u          C3        
+| .01u         C1        
+| .01u         C4        
+| .1uF         C6        
+| .1uF         C7        
+| .1uF         C8        
+| .1uF         C9        
+| USB-MINI-B   CON1      
+| DIODE        D1        
+| INDUCTOR     L1        
+| INDUCTOR     L2        
+| CONN_7       P1        
+| CONN_9       P2        
+| CONN_2       P3        
+| CONN_2       P4        
+| MOSFET_N     Q1        
+| 24           R2        
+| 24           R3        
+| 24           R4        
+| 24           R5        
+| 39           R1        
+| 10k          R6        
+| 10k          R7        
+| TRANSFO      T1        
+| 4072         U3        
+| 4072         U4        
+| 7805         U1        
+| ADUM3160     U5        
+| FT245R       U6        
+| 74LS04       U2        
+| 74LS244      U7        
+#End Cmp
+
+#End List
